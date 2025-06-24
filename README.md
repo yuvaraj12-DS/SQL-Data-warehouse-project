@@ -122,7 +122,7 @@ I'm a freelance Data Scientist with over **5 years of experience** delivering da
 
 ---
 
-##📬 Let’s connect:
+## 📬 Let’s connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-singh-774226350/)  
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017d638f11f360bc8e?mp_source=share)
