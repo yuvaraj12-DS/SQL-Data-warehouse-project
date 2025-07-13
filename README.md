@@ -3,12 +3,12 @@ Building a modern data werehouse with SQL server, including ETL processes, data 
 
 # Data Warehouse and Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
+Welcome to the **Data Warehouse and Analytics Project** repository!  
 This project demonstrates a comprehensive data warehousing and analytics solution, 
 from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
-## 🏗️ Data Architecture
+## Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 
@@ -18,7 +18,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
-## 📖 Project Overview
+## Project Overview
 
 This project involves:
 
@@ -27,7 +27,7 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+This repository is an excellent resource for professionals and students looking to showcase expertise in:
 - SQL Development
 - Data Architect
 - Data Engineering  
@@ -37,7 +37,7 @@ This project involves:
 
 ---
 
-## 🚀 Project Requirements
+## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -64,7 +64,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 data-warehouse-project/
 │
@@ -93,27 +93,27 @@ data-warehouse-project/
 ---
 
 
-## 🛡️ License
+## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+## About Me
 
-### Hi there 👋 I'm Yuvaraj Singh
+### Hi there I'm Yuvaraj Singh
 
 I'm a freelance Data Scientist with over **5 years of experience** delivering data-driven solutions through Upwork. I specialize in turning raw data into actionable insights using a powerful blend of tools and techniques.
 
-💼 Freelance Profile: [Upwork - Yuvaraj Singh](https://www.upwork.com/freelancers/~017d638f11f360bc8e?mp_source=share)
+Freelance Profile: [Upwork - Yuvaraj Singh](https://www.upwork.com/freelancers/~017d638f11f360bc8e?mp_source=share)
 
-#### 🧠 What I Do
+#### What I Do
 
-- 📈 Data Analytics using **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- 💻 BI Automation using **OpenPyXL**, **pyodbc**, and **Dask**
-- 🧪 Statistical Modeling with **RStudio**, **SAS**, and **SPSS**
-- 🗃️ Data manipulation and querying with **SQL**
-- 📊 Interactive dashboards and analysis in **Power BI** and **Excel**
+-  Data Analytics using **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+-  BI Automation using **OpenPyXL**, **pyodbc**, and **Dask**
+-  Statistical Modeling with **RStudio**, **SAS**, and **SPSS**
+-  Data manipulation and querying with **SQL**
+-  Interactive dashboards and analysis in **Power BI** and **Excel**
 
-#### ⚙️ Tools & Platforms
+#### Tools & Platforms
 
 - Jupyter Notebook / Jupyter Lab  
 - RStudio, Power BI, VS Code  
@@ -122,7 +122,7 @@ I'm a freelance Data Scientist with over **5 years of experience** delivering da
 
 ---
 
-## 📬 Let’s connect:
+## Let’s connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-singh-774226350/)  
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017d638f11f360bc8e?mp_source=share)
